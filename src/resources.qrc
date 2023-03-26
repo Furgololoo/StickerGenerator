@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>view/AddStickerPanel.qml</file>
+        <file>view/ImagePanel.qml</file>
+        <file>view/main.qml</file>
+        <file>view/ManagePanel.qml</file>
+        <file>view/Menu.qml</file>
+        <file>view/CustomComponents/ResizableComponent.qml</file>
+        <file>view/CustomComponents/CustomButton.qml</file>
+        <file>images/orange.png</file>
+        <file>images/rect.png</file>
+        <file>view/CustomComponents/CustomTextField.qml</file>
+        <file>view/CustomComponents/CustomLabel.qml</file>
+    </qresource>
+</RCC>
